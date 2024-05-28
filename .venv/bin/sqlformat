@@ -1,4 +1,4 @@
-#!/home/zohaib/Desktop/CI-Walk-Through-Projects/Profile-Api/.venv/bin/python3.12
+#!/home/zohaib/Desktop/CI-Walk-Through-Projects/Django-Rest-Api/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
